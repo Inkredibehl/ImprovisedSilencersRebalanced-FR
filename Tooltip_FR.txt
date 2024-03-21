@@ -1,0 +1,7 @@
+Tooltip_FR = {
+	-- Item tooltip
+		Tooltip_Silencer = "Réduit considérablement le rayon sonore mais réduit légèrement la portée.",
+		Tooltip_MetalPipeSilencer = "Réduit considérablement le rayon sonore mais réduit légèrement la portée.",
+		Tooltip_TorchSilencer = "Réduit le rayon sonore, mais réduit la portée.",
+		Tooltip_WaterBottleSilencer = "Réduit le rayon sonore, mais réduit la portée.",
+}

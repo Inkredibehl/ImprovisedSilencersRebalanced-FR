@@ -1,0 +1,6 @@
+Recipes_FR = {
+    Recipe_Craft_Silencer = "Fabriquer un silencieux"
+    Recipe_Craft_Metal_Pipe_Silencer = "Fabriquer un silencieux en tuyau métallique"
+    Recipe_Craft_Hand_Torch_Silencer = "Fabriquer un silencieux avec lampe-torche"
+    Recipe_Craft_Water_Bottle_Silencer = "Fabriquer un silencieux avec bouteille d'eau"
+}

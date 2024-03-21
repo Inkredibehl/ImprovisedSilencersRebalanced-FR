@@ -1,0 +1,7 @@
+ItemName_FR = {
+    ItemName_ImprovisedSilencers.Silencer = "Silencieux pour Fusil"
+	ItemName_ImprovisedSilencers.SilencerPistol = "Silencieux pour Pistolet"
+    ItemName_ImprovisedSilencers.MetalPipeSilencer = "Silencieux Improvisé en Tuyau Métallique"
+    ItemName_ImprovisedSilencers.TorchSilencer = "Silencieux Improvisé en Lampe-Torche"
+    ItemName_ImprovisedSilencers.WaterBottleSilencer = "Silencieux Improvisé avec Bouteille D'eau"
+}
